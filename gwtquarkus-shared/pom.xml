@@ -10,13 +10,6 @@
 
   <artifactId>gwtquarkus-shared</artifactId>
 
-  <dependencies>
-    <dependency>
-      <groupId>org.dominokit</groupId>
-      <artifactId>domino-brix-shared</artifactId>
-    </dependency>
-  </dependencies>
-
   <build>
     <resources>
       <resource>
